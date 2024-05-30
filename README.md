@@ -1,0 +1,2 @@
+# Teachers-Evaluation-System
+ Teachers Evaluation System" empowers students to anonymously submit feedback on their teachers. Leveraging RoBERTa, a powerful NLP model, the system analyzes comments to identify positive sentiment, providing educators with valuable insights into their strengths and fostering a culture of constructive evaluation. This web-based platform promotes improved teacher performance, enhanced communication, and data-driven analysis for a more effective learning environment.
